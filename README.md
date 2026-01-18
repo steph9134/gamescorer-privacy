@@ -1,0 +1,1 @@
+# gamescorer-privacy
